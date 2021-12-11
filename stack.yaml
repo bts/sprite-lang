@@ -13,4 +13,5 @@ extra-deps:
   commit: d77c1eb45dc2ac73c5c547ed3353215ec329c65b
 
 compiler: ghc-8.10.2
+compiler-check: newer-minor
 allow-newer: true
