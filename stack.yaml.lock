@@ -32,17 +32,6 @@ packages:
       sha256: f6b89e2e06d38d0a2d73c220648811a54684b476778904416b22f1ccae7eab67
   original:
     hackage: tasty-rerun-1.1.14
-- completed:
-    name: liquid-fixpoint
-    version: 0.8.10.2.1
-    git: https://github.com/ucsd-progsys/liquid-fixpoint
-    pantry-tree:
-      size: 20326
-      sha256: 6774b6ef08a744a825c05656e84d12c77eb99edbbe5c27dd39645d573fb3abba
-    commit: d77c1eb45dc2ac73c5c547ed3353215ec329c65b
-  original:
-    git: https://github.com/ucsd-progsys/liquid-fixpoint
-    commit: d77c1eb45dc2ac73c5c547ed3353215ec329c65b
 snapshots:
 - completed:
     size: 532383
