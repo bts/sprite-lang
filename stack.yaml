@@ -15,3 +15,6 @@ extra-deps:
 compiler: ghc-8.10.2
 compiler-check: newer-minor
 allow-newer: true
+
+ghc-options:
+  '$everything': -haddock
